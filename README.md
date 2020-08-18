@@ -16,3 +16,5 @@ Using different classification models to predict the chances of heart_disease ba
 11.the slope of the peak exercise ST segment
 12.number of major vessels (0-3) colored by flourosopy
 13.thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+
+The dataset has been trained using varying machine learning classification methods like random-forest-classifier,xg_boost,KNN,decision-tree,SVM,kernel_SVM and based on the results;the best prediction accuracy score is in the case of KNN.
