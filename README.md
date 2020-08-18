@@ -1,7 +1,8 @@
 # Heart_disease_prediction_kaggle
+
 Using different classification models to predict the chances of heart_disease based on certain given number of parameters
-The dataset is imported from kaggle and is based on UCI machine learning repository.
-The attributes of dataset are:
+#The dataset is imported from kaggle and is based on UCI machine learning repository.
+#The attributes of dataset are:
 1.age
 2.sex
 3.chest pain type (4 values)
